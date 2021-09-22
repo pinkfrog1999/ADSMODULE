@@ -1,0 +1,8 @@
+copy "foods" folder to htdocs/www folder
+import sql file. database name: foods
+
+use the url: localhost/foods
+
+admin account: username-admin password-admin
+
+staff account: username-staff passsword-staff
